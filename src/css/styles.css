@@ -46,7 +46,7 @@ body {
   width: 360px;
   max-height: 200px;
   border: 1px solid #808080;
-  overflow: hidden; /* Ховаємо частини зображення, що виходять за межі */
+  overflow: hidden;
   position: relative;
 }
 
